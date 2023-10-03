@@ -1,0 +1,9 @@
+Link: https://pl.kotl.in/2YTGR8gGe?theme=darcula&readOnly=true&from=5&to=12
+
+fun main() {
+    val dato = 1.15f
+    val PI = 3.1415
+    val perimetro = 2 * PI * dato
+    println("El tipo de dato es: ${dato::class.simpleName}")
+    println("El perimetro del circulo es: $perimetro")
+}
