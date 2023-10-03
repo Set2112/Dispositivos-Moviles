@@ -3,12 +3,8 @@
  * play.kotlinlang.org
  */
 fun main() {
-    val dato= 1.15
-    println("El tipo de dato es: ${dato::class.simpleName}")
     println("Hello, Upiicsa")
     print("Hello Upiicsa")
     print("Hello Upiicsa")
-    
-    
     
 }
